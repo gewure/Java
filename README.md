@@ -18,3 +18,5 @@ Simple examples of Idioms, Pattern and Language Features in Java (8)
   Very simple bypassing of an self-signed SSL-certificate, usefull for lazy ppl and/or ppl who love the face of danger
 # Regex.java
   Its really simple in Java - Its just like 5-10x the LoC as e.g. in PERL :)
+# Zipper.java
+  It zips, it unzips.. its simple..!

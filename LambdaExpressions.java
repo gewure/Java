@@ -18,6 +18,14 @@ public class LambdaExpressions {
             }
         } // everyone knows this one
         
+        /* ANCIENT IDIOM */
+        for(int i = 0; i < listOne.size(); i++) {
+            for(int j = 0; j < listTwo.size(); j++) {
+                 if (listOne.get(i) == listTwo.get(j))
+                    listTwo.remove(j);
+            }
+        } // everyone loves C
+        
         /* LAMBDA IDIOM (explicit) */
         listOne.forEach(one -> {
             listTwo.forEach(two -> {

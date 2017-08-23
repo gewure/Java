@@ -1,5 +1,6 @@
 Simple examples of Idioms, Pattern and Language Features in Java (8)
-
+# Emailer.java
+  Class that can sendMail(from, to, subject, msg, host, port, user,pw) via a SMTP-Server
 # Snippets.java
   OK, here goes everything to snip to go in its own file:
         - editXML(File xml, String treePath, String newVal) method

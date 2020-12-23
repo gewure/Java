@@ -7,7 +7,7 @@ import java.util.Comparator;
 
 // results:
 // Double is about 8x to 12x times faster sorted in an ArrayList 
-public class BigDecimalVsFloatTest {
+public class BigDecimalVsDoubleTest {
 
     @Test
     public void bigIntTimeCostTest() {

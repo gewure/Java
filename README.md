@@ -7,6 +7,8 @@ Simple examples of Idioms, Pattern and Language Features in Java (8)
         - ...
 # Generics.java
   Example of how to use Generics in Java 8
+# BigDecimalVsDoubleTest.java
+  simple test to compare performance of BigDecimal vs Double
 # FunctionalProgramming.java
   Example of functional programming in Java 8
 # LambdaExpressions.java
